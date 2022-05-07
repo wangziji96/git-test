@@ -13,6 +13,7 @@ public class Test {
         System.out.println("this is hot-fix branch");
         System.out.println("this is master branch");
         System.out.println("this is hot-fix branch 2");
+        System.out.println("push code to github");
     }
 
 }
